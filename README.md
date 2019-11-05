@@ -24,18 +24,18 @@ By the end of this course, you will be familiar with Python functions and will b
 ### Assumed Knowledge
 This course is suitable for data analysts, data scientists, and data science enthusiasts who want to switch to Python for data analysis. This course will also be helpful for anyone who has a data analysis background in R and now wants to use Python 3 for data analysis.
 ### Technical Requirements <br/>
-Minimum Hardware Requirements
-For successful completion of this course, students will require the computer systems with at least the following: <br/>
+Minimum Hardware Requirements<br/><br/>
+For successful completion of this course, students will require the computer systems with at least the following: <br/><br/>
 OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit<br/>
 Processor: Intel Core i3 or equivalent<br/>
 Memory: 4 GB RAM<br/>
-Storage: 25 GB available space<br/>
-Recommended Hardware Requirements<br/>
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration: <br/>
+Storage: 25 GB available space<br/><br/>
+Recommended Hardware Requirements<br/><br/>
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration: <br/><br/>
 OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit<br/>
 Processor: Intel Core i7 or equivalent<br/>
 Memory: 8 GB RAM<br/>
-Storage: 35 GB available space<br/>
+Storage: 35 GB available space<br/><br/>
 ## Related Products
 * [Mastering GitLab [Video]](https://www.packtpub.com/networking-and-servers/mastering-gitlab-video?utm_source=github&utm_medium=repository&utm_campaign=9781789537642)
 * [Mastering Palo Alto Networks [Video]](https://www.packtpub.com/networking-and-servers/mastering-palo-alto-networks-video)
